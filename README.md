@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ksnine
+- 👋 Hi, I’m @dusean435
 - 👀 I’m interested in software development mainly Backend engineering.
 - 🌱 I’m currently learning nodejs
 - 💞️ I’m looking to collaborate on any open source projects written in C, Javascript, Typescript
-- 📫 How to reach me [mail.ksnine@gmail.com](mailto:mail.ksnine@gmail.com)
+- 📫 How to reach me [dusean435@gmail.com](mailto:dusean435@gmail.com)
