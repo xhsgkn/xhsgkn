@@ -1,5 +1,3 @@
-- 👋 Hi
-- 👀 I’m interested in software development mainly Backend engineering.
-- 🌱 I’m currently learning nodejs
-- 💞️ I’m looking to collaborate on any open source projects written in C, Javascript, Typescript
-- 📫 How to reach me [xhsgkn@gmail.com](mailto:xhsgkn@gmail.com)
+Hi, I'm Sean.  
+I have passion in systems programming plus backend engineering and am currently learning nodejs.  
+You can reach me via [xhsgkn@gmail.com](mailto:xhsgkn@gmail.com).  
